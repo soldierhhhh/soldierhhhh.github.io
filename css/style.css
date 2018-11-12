@@ -1,0 +1,98 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul, ol,
+li, dl, dt, dd, form, a, fieldset, input, th, td
+{margin: 0; 
+padding: 0; 
+border: 0; 
+outline: none;}
+
+body {	
+font-family: "微软雅黑";
+font-size: 14px;
+color:#000000;
+line-height: 20px;
+text-align:left;
+ background: #fff;}
+
+td,th {font-family: "微软雅黑";
+font-size: 12px;
+color: #000000;}
+
+a {color: #000000;}  
+A:link {TEXT-DECORATION: none;} 
+A:visited {TEXT-DECORATION: none;}
+A:hover {TEXT-DECORATION: underline;color: #09F;}
+
+ul,li{list-style-type:none;}
+.clearit{clear:both;}
+#page{width:980px; margin:0 auto;}
+
+.nav{width:980px; 
+height:40px;
+ line-height:40px; 
+text-align:center; 
+background:#000;}
+
+.nav ul li{width:120px; 
+float:left; 
+margin-left:40px; 
+display:inline; 
+font-size:14px;}
+
+.nav ul li a{color:#FFFFFF;}
+.zuo{width:400px; float:left;}
+
+.you{width:540px; 
+float:right; 
+font-size:14px; 
+font-family:"微软雅黑"; 
+line-height:26px; 
+padding:0 10px;}
+
+.jieshao{width:960px; 
+padding:10px;
+background:#FFFFFF;}
+
+.tuce h2{font-size:14px; 
+line-height:24px; 
+color: #000; 
+font-weight:bold; 
+text-align:left; 
+border-bottom:2px solid  #CCC; 
+margin-bottom:20px;}
+
+.tuce{background: #F6F6F6; 
+width:960px; 
+padding:0 10px; 
+overflow:hidden;}
+
+.tuce p{padding-top:5px;
+ font-size:14px;
+line-height:30px;}
+
+.left_in{ width:410px; float:left; overflow:hidden; margin-right:15px;}
+.right_in{ width:530px; float:right}
+.right_in ul li{ width:240px; margin:10px; background:#FFFFFF; float:left; }
+.right_in ul li img{ width:240px; border-bottom:1px solid #CCC; }
+.right_in ul li p{ padding:10px; color:#666;}
+
+.footer{background:#000; margin-top:10px;} 
+.footer p{text-align:center;padding:20px 0; color:#FFFFFF;}
+.xinxi{width:960px; padding:10px; background:#FFFFFF;}
+
+.center_in{ width:980px; margin:0 auto;}
+.center_in ul li{ width:220px; margin:10px; background:#FFFFFF; float:left; }
+.center_in ul li img{ width:220px; border-bottom:1px solid #CCC; }
+.center_in ul li p{ padding:10px; color:#666;}
+
+.center_left{ width:500px; float:left;}
+.center_right{ width:450px; float:right; line-height:30px;}
+
+
+
+h1{ font-family:"微软雅黑"; line-height:80px;}
+
+
+
